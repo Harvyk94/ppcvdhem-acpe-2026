@@ -1,0 +1,182 @@
+{
+  "off": {
+    "categories": {
+      "none": 33,
+      "ldl": 37,
+      "sbp": 49,
+      "combined": 126
+    },
+    "economics": {
+      "none": 33,
+      "cost_effective": 85,
+      "dominant": 127
+    },
+    "by_lpa": [
+      {
+        "lpa": 10,
+        "early": 34,
+        "later": 7,
+        "none": 8,
+        "qaly_median": 0.36390718513474857,
+        "qaly_min": 0.0,
+        "qaly_max": 2.156327707150302
+      },
+      {
+        "lpa": 20,
+        "early": 36,
+        "later": 6,
+        "none": 7,
+        "qaly_median": 0.3758745484642161,
+        "qaly_min": 0.0,
+        "qaly_max": 2.2368953416298463
+      },
+      {
+        "lpa": 30,
+        "early": 36,
+        "later": 6,
+        "none": 7,
+        "qaly_median": 0.3899573743769579,
+        "qaly_min": 0.0,
+        "qaly_max": 2.2756493549603927
+      },
+      {
+        "lpa": 50,
+        "early": 39,
+        "later": 4,
+        "none": 6,
+        "qaly_median": 0.42072866677762066,
+        "qaly_min": 0.0,
+        "qaly_max": 2.3439377412342015
+      },
+      {
+        "lpa": 100,
+        "early": 41,
+        "later": 3,
+        "none": 5,
+        "qaly_median": 0.5248877622080151,
+        "qaly_min": 0.0,
+        "qaly_max": 2.5436446340537455
+      }
+    ],
+    "leading_regimens": [
+      [
+        "Amlodipine (10mg) + Atorvastatin (80mg); Chlortalidone (25mg)",
+        71
+      ],
+      [
+        "Atorvastatin (80mg)",
+        36
+      ],
+      [
+        "Amlodipine (10mg) + Atorvastatin (80mg); Indapamide (2.5mg)",
+        22
+      ],
+      [
+        "Amiloride (5mg) + Hydrochlorothiazide (50mg); Metoprolol (50mg)",
+        17
+      ],
+      [
+        "Amlodipine (10mg) + Atorvastatin (80mg); Metoprolol (50mg)",
+        14
+      ]
+    ]
+  },
+  "on": {
+    "categories": {
+      "none": 38,
+      "ldl": 32,
+      "sbp": 64,
+      "combined": 111
+    },
+    "economics": {
+      "none": 38,
+      "cost_effective": 86,
+      "dominant": 121
+    },
+    "by_lpa": [
+      {
+        "lpa": 10,
+        "early": 32,
+        "later": 8,
+        "none": 9,
+        "qaly_median": 0.29726885002271736,
+        "qaly_min": 0.0,
+        "qaly_max": 2.1543425137162004
+      },
+      {
+        "lpa": 20,
+        "early": 34,
+        "later": 7,
+        "none": 8,
+        "qaly_median": 0.2988278636995819,
+        "qaly_min": 0.0,
+        "qaly_max": 2.227623763238033
+      },
+      {
+        "lpa": 30,
+        "early": 35,
+        "later": 6,
+        "none": 8,
+        "qaly_median": 0.31500776596847574,
+        "qaly_min": 0.0,
+        "qaly_max": 2.284009144229784
+      },
+      {
+        "lpa": 50,
+        "early": 35,
+        "later": 7,
+        "none": 7,
+        "qaly_median": 0.3811199467803264,
+        "qaly_min": 0.0,
+        "qaly_max": 2.338766075050614
+      },
+      {
+        "lpa": 100,
+        "early": 39,
+        "later": 4,
+        "none": 6,
+        "qaly_median": 0.47037358981789146,
+        "qaly_min": 0.0,
+        "qaly_max": 2.527835019633992
+      }
+    ],
+    "leading_regimens": [
+      [
+        "Atorvastatin (80mg); Olmesartan (40mg) + Amlodipine (10mg)",
+        46
+      ],
+      [
+        "Amlodipine (10mg) + Atorvastatin (20mg)",
+        33
+      ],
+      [
+        "Olmesartan (40mg) + Amlodipine (10mg)",
+        22
+      ],
+      [
+        "Atorvastatin (20mg)",
+        18
+      ],
+      [
+        "Olmesartan (40mg) + Amlodipine (10mg) + Hydrochlorothiazide (25mg)",
+        16
+      ]
+    ]
+  },
+  "comparison": {
+    "medication_sets_changed": 194,
+    "schedules_changed": 201,
+    "median_nmb_change": -1224.8906915923071
+  },
+  "ldl2_5_on": {
+    "none": 10,
+    "sbp": 25
+  },
+  "validation": {
+    "profiles": 245,
+    "economic_identities": 490,
+    "winner_replays": 490,
+    "unique_grid_coordinates_per_mode": 245,
+    "max_active_ingredients": 3
+  }
+}

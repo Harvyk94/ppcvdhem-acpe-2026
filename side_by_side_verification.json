@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "profile_pairs": 245,
+  "source_rows_checked": 490,
+  "drug_set_changes": 194,
+  "schedule_changes": 201,
+  "initiation_age_changes": 22,
+  "source": "completed_campaign/all_comparisons.json",
+  "source_sha256": "fdaa991efc6199972e93bde1918a2c80503eec7a90e4961554610fa962a46478",
+  "paired_data_sha256": "de170139d07d8ae9bfad8b922c3da5621f272376f31aae36a08f0f0e650ea0f4",
+  "note": "QALYs, costs, ICERs, NMB, product names and initiation ages checked against every source winner. No models rerun or changed."
+}

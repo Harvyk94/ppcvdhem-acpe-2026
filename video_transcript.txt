@@ -1,0 +1,13 @@
+PPCVD-HEM+: 245 paired risk profiles
+Compare ADE OFF and ADE ON using the completed v3 results.
+
+Read the treatment grids
+Colour = treatment class. Number = active ingredients. Age = initiation age.
+
+Example: LDL-C 2.5, SBP 150, Lp(a) 10
+Both modes select SBP-only treatment; the regimen and initiation age differ.
+
+Example: LDL-C 5.5, SBP 170, Lp(a) 10
+Both selected strategies are dominant: more QALYs at lower cost than no medication.
+
+Screen-based walkthrough of the completed managed-event ADE v3 results. It is not a recording of a fresh model run.

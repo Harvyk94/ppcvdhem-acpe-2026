@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.000
+PPCVD-HEM+: 245 paired risk profiles. Compare ADE OFF and ADE ON using the completed v3 results.
+
+2
+00:00:07.000 --> 00:00:17.000
+Read the treatment grids. Colour = treatment class. Number = active ingredients. Age = initiation age.
+
+3
+00:00:17.000 --> 00:00:29.000
+Example: LDL-C 2.5, SBP 150, Lp(a) 10. Both modes select SBP-only treatment; the regimen and initiation age differ.
+
+4
+00:00:29.000 --> 00:00:39.000
+Example: LDL-C 5.5, SBP 170, Lp(a) 10. Both selected strategies are dominant: more QALYs at lower cost than no medication.

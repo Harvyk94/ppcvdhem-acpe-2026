@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+1  Define a synthetic profile. Man aged 40; LDL-C 2.5 mmol/L; SBP 150 mmHg; Lp(a) 10 mg/dL; no smoking or diabetes.
+
+2
+00:00:08.000 --> 00:00:16.000
+2  Select treatment comparisons. Live application example: amlodipine 10 mg and atorvastatin 80 mg, each compared with no medication.
+
+3
+00:00:16.000 --> 00:00:26.000
+3  Specify the analysis. 1,000 simulated people; lifetime horizon; 5% discounting; A$28,000/QALY; ADE costs switched OFF.
+
+4
+00:00:26.000 --> 00:00:36.000
+4  Inspect the completed live run. The application displays the cost-effectiveness plane and incremental QALYs and costs for each arm.
+
+5
+00:00:36.000 --> 00:00:46.000
+5  Review the economic summary. These are the live demonstration outputs. The website uses different inputs from the completed poster analysis.
+
+6
+00:00:46.000 --> 00:00:58.000
+6  Explore outcomes over age. Cumulative incidence curves display CVD, myocardial infarction, stroke, diabetes and death for each arm.
+
+7
+00:00:58.000 --> 00:01:06.000
+Poster findings: explore the verified ADE v3 grid. The poster uses the separate completed 245-profile analysis, with 10,000 people per arm and revised ADE assumptions.
